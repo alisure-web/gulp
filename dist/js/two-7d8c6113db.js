@@ -1,0 +1,1 @@
+var alisure2=150;alisure2=+alisure2,console.log(alisure2);
